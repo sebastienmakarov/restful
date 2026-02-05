@@ -14,3 +14,4 @@ Notes and usage details for restful.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
