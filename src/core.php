@@ -10,3 +10,4 @@ Unlocking the potential of the WP REST API at the command line
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// guard against empty input
